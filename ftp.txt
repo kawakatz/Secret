@@ -1,0 +1,4 @@
+ftp login = ftp://ftp.kawakatz.com
+
+user = test
+password = 123456
