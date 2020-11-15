@@ -1,0 +1,4 @@
+http://api.kawakatz.com/api/v2/
+
+api_key = o123y1houejnduqedgbij 
+apikey = 1oi2egquewfihacoju9dfd
